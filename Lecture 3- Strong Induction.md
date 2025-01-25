@@ -14,15 +14,15 @@ then every P(n) is true.
 # Template for Well Ordering Proofs
 
 - [7] Template
-![[Pasted image 20250125200544.png]]
+![[static/images/Pasted image 20250125200544.png]]
 
 - [8] Example Proof
-![[Pasted image 20250125202331.png]]
+![[static/images/Pasted image 20250125202331.png]]
 
 # Template for Ordinary Induction Proofs
 
 - [7] Template
-![[Pasted image 20250125202853.png]]
+![[static/images/Pasted image 20250125202853.png]]
 
 # Invariant
 
@@ -31,7 +31,7 @@ One of the most important uses of induction in computer science involves proving
 A property that is preserved through a series of operations or steps is known as an ==**invariant**==.
 
 - [7] Template
-![[Pasted image 20250125203822.png]]
+![[static/images/Pasted image 20250125203822.png]]
 
 # Structural Induction
 
